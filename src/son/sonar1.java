@@ -16,6 +16,13 @@ public class sonar1 {
 		sum=number1+number2;
 		System.out.printf("sum %d ",sum);
 
+		
+		
+		
+		
+		
+		
+		
 	}
 
 }
